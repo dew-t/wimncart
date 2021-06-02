@@ -2,30 +2,13 @@
 layout: post
 title:  "Inception Movie"
 author: DEW_T
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
+categories: [ Cat, House ]
+tags: [고양이화장실, 고양이모래]
 image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "모래날림 적은 고양이 모래 추천"
 featured: true
 hidden: true
 rating: 4.5
 ---
 
-Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
-
-#### How to use?
-
-It's actually really simple! Add the rating in your YAML front matter. It also supports halfs:
-
-```html
----
-layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Actors, directing and more."
-rating: 4.5
----
-```
+10년째 쓰고 있는 steady 중의 steady 모래
