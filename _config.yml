@@ -1,6 +1,6 @@
 # Site
-name: "WhatsInMyCart"
-title: "WhatsInMyCart"
+name: "What's In My Cart"
+title: "What's In My Cart"
 description: "Find the Best, Live Better."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -16,7 +16,7 @@ authors:
   DEW_T:
     name: DEW_T
     display_name: DEW_T
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 'assets/images/logo.png'
     email: dew_t16@naver.com
     description: "Cat, Math and TODAY."
   
